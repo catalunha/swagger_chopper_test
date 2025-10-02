@@ -1,1 +1,1 @@
-export 'biblingo.swagger.dart' show Biblingo;
+export 'pmsb.swagger.dart' show Pmsb;
